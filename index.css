@@ -1,0 +1,30 @@
+#watch {
+    background-color: rgb(12, 12, 10);
+    width: 90%;
+    max-width: 500px;
+    height: auto;
+    padding: 30px;
+    margin: 40px auto; 
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+}
+
+h1 {
+    margin: 20px 0;
+    text-align: center;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer; 
+    background-color: white;
+    gap: 30px;
+}
+button:hover{
+    border-left: 20px solid #000;
+}
